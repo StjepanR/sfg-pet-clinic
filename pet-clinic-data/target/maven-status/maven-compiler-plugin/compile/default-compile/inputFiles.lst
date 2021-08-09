@@ -1,3 +1,5 @@
+/home/user/Desktop/udemy/udemy_spring_course/git/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Visit.java
+/home/user/Desktop/udemy/udemy_spring_course/git/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/SpecialityService.java
 /home/user/Desktop/udemy/udemy_spring_course/git/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Person.java
 /home/user/Desktop/udemy/udemy_spring_course/git/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Vet.java
 /home/user/Desktop/udemy/udemy_spring_course/git/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Owner.java
@@ -5,10 +7,14 @@
 /home/user/Desktop/udemy/udemy_spring_course/git/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/PetType.java
 /home/user/Desktop/udemy/udemy_spring_course/git/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/PetService.java
 /home/user/Desktop/udemy/udemy_spring_course/git/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/VetServiceMap.java
+/home/user/Desktop/udemy/udemy_spring_course/git/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Speciality.java
 /home/user/Desktop/udemy/udemy_spring_course/git/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/OwnerServiceMap.java
 /home/user/Desktop/udemy/udemy_spring_course/git/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Pet.java
+/home/user/Desktop/udemy/udemy_spring_course/git/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/PetTypeService.java
 /home/user/Desktop/udemy/udemy_spring_course/git/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/PetServiceMap.java
 /home/user/Desktop/udemy/udemy_spring_course/git/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/OwnerService.java
 /home/user/Desktop/udemy/udemy_spring_course/git/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/AbstractMapService.java
+/home/user/Desktop/udemy/udemy_spring_course/git/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/PetTypeServiceMap.java
 /home/user/Desktop/udemy/udemy_spring_course/git/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/VetService.java
 /home/user/Desktop/udemy/udemy_spring_course/git/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/BaseEntity.java
+/home/user/Desktop/udemy/udemy_spring_course/git/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/SpecialityServiceMap.java
