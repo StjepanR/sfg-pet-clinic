@@ -37,7 +37,6 @@ public class OwnerJPAService implements OwnerService {
 
     @Override
     public Owner findById(Long id) {
-
         return ownerRepository.findById(id).orElse(null);
     }
 
